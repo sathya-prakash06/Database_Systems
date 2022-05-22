@@ -16,3 +16,15 @@
 - DML : Data Manipulation Language (Manipulates database content)
 - DCL : Data Control Language (assign data access rights)
 - TCL : Transaction Control Language (gROUPS sql commands)
+
+
+## Defing database schemas
+
+- define relations with their schemas
+- define constarins restricting admissible content
+
+## Schema Definition in SQL
+
+- CREATE TABLE< table >(< table-def >)
+- < table > is the table name
+- < table-def > is a list of column definitions
