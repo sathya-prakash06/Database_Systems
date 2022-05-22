@@ -28,3 +28,10 @@
 - CREATE TABLE< table >(< table-def >)
 - < table > is the table name
 - < table-def > is a list of column definitions
+
+## Primary Key Constraints
+
+- A primary key contraint refers to a single table
+- It identifies a subset of columns as key columns
+- Fixing values for key columns must identify row
+- No two rows have same values in key columns
