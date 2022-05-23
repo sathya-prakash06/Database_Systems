@@ -46,9 +46,23 @@
 ## Aggregate queries
 
 - can calculate aggregates over all the rows of the result relation.
+
 - COUNT, SUM, AVG, MIN, MAX
+
 - COUNT: for counting rows in the result relation
 - SUM: for summing up values in the result relation
 - AVG: for calculating average of values in the result relation
 - MIN: for finding minimum value in the result relation
 - MAX: for finding maximum value in the result relation
+
+- GROUP BY: for grouping rows in the result relation
+
+// SELECT
+// FROM
+// WHERE
+// GROUP BY
+// HAVING
+// ORDER BY
+// LIMIT
+// OFFSET
+
